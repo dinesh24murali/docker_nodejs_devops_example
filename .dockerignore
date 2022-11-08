@@ -1,5 +1,7 @@
 node_modeules
+Notes
 Dockerfile
 .dockerignore
 .git
 .gitignore
+docker-compose*
