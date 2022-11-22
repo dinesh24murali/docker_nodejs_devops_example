@@ -21,7 +21,7 @@ sudo chown -R $USER ./docker_nodejs_devops_example/
 
 - get the logs for a particular container. Eg: lets say you are running a nodeJS app in the container and you want to see the logs that appear when you run the server. You can use this command
 
-docker logs <container id or container name>
+docker logs <container id or container name> -f
 
 - run a particular service in docker-compose file
 
