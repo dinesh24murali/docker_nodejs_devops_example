@@ -1,5 +1,8 @@
-node_modeules
+node_modules
+nginx
+Notes
 Dockerfile
 .dockerignore
 .git
 .gitignore
+docker-compose*
